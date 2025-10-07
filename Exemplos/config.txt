@@ -1,0 +1,2 @@
+git config --global user.name JoaoTeraoka
+git config --global user.email tkjoaopedro636@gmail.com
